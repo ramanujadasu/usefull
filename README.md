@@ -1,4 +1,0 @@
-usefull
-=======
-
-UsefullInformation
